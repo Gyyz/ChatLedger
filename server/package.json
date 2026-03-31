@@ -1,0 +1,15 @@
+{
+  "name": "chatledger-server",
+  "version": "1.0.0",
+  "description": "ChatLedger REST API Server - 支持 OpenClaw 等外部系统接入的智能记账服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}

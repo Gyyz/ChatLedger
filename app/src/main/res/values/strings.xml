@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatLedger</string>
+    <string name="tab_chat">记账</string>
+    <string name="tab_stats">统计</string>
+    <string name="tab_settings">设置</string>
+</resources>
